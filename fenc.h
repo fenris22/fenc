@@ -9,6 +9,6 @@ char testing(char t) {
     return t;
 }
 
-char myChar = 't';
+char myChar = 'a';
 
 #endif //FENC_FENC_H
