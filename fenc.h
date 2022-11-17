@@ -7,7 +7,9 @@
 
 
 class fencDecode {
-
+    char test(char t) {
+        return t;
+    }
 };
 
 
