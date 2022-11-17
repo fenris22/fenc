@@ -6,7 +6,7 @@
 #define FENC_FENCDECODE_H
 
 
-class fencDecode {
+class fenc {
     char test(char t) {
         return t;
     }
