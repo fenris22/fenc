@@ -7,7 +7,7 @@
 
 
 class fenc {
-    char test(char t) {
+    public char test(char t) {
         return t;
     }
 };
