@@ -5,10 +5,37 @@
 #ifndef FENC_FENC_H
 #define FENC_FENC_H
 
-char testing(char t) {
-    return t;
-}
+#include <cstdlib>
 
-char myChar = 'a';
+
+typedef struct {
+    int i;
+    char x;
+} mapObj;
+
+
+class fenc {
+
+    mapObj *Map;
+    Map = (mapObj *) malloc(48*sizeof(mapObj));
+
+
+    Map[0] = {1, 'a'};
+
+public:
+
+    char encode(char a) {
+
+
+
+        return a;
+    }
+    char decode(char a) {
+
+
+
+        return a;
+    }
+};
 
 #endif //FENC_FENC_H
