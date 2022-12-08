@@ -8,7 +8,7 @@
 // Mode: 0 = encryption, 1 = decryption;
 int fenc (int mode) {
 
-   // dads code is great
+   // dads code is really great
 
     return mode;
 }
