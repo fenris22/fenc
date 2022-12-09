@@ -1,1 +1,3 @@
-# custom encoding for my encryption algos
+# FENC
+
+Custom encoding - with compression

@@ -1,6 +1,8 @@
 //
 // Created by fenris on 12/8/22.
 //
+#include <encoder.h>
+#include <decoder.h>
 
 #ifndef FENC_FENC_H
 #define FENC_FENC_H
